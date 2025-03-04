@@ -86,7 +86,7 @@ sudo systemctl restart nginx
 ## Notes
 - Flask automatically runs on port 5000 by default. If needed, modify `app.run()` in the script to specify a different port.
 - Ensure your Python environment is correctly set up to avoid dependency conflicts.
-- [Official Flask Documentation[](https://flask.palletsprojects.com/en/stable/deploying/nginx/) for troubleshooting
+- [Official Flask Documentation](https://flask.palletsprojects.com/en/stable/deploying/nginx/) for troubleshooting
 
 ## License
 This project is open-source and available under the MIT License.
