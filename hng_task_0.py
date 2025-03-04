@@ -9,7 +9,7 @@ app.json.sort_keys = False
 def index():
     #current_url = request.url
     github_url = 'https://github.com/poarnold/hng_task_0'
-    email = 'poarnold@outlook.com'
+    email = 'user-name@email.com'
     current_time = datetime.now()
     iso_time = current_time.isoformat()
 
